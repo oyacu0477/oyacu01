@@ -1,0 +1,58 @@
+{"name": "REPLEY TV",
+"image":"https://yourclubox.com/box/Logos/img1.png",
+"author": "Costa rica - Nrey",
+"stations": [
+
+{"name":"TRIVISIÓN", "image":"https://w7.pngwing.com/pngs/252/208/png-transparent-costa-rica-argumentative-airplane-nature-flora-costa-rica-text-logo-fauna.png", 
+"url":"https://liveingesta118.cdnmedia.tv:443/trivision36live/dvrlive-1500/chunklist.m3u8?DVR"},
+
+{"name":"STV", "image":"https://w7.pngwing.com/pngs/252/208/png-transparent-costa-rica-argumentative-airplane-nature-flora-costa-rica-text-logo-fauna.png", 
+"url":"https://video.misistemareseller.com:1936/sanvito/sanvito/playlist.m3u8"},
+
+{"name":"COTO BRUS", "image":"https://w7.pngwing.com/pngs/252/208/png-transparent-costa-rica-argumentative-airplane-nature-flora-costa-rica-text-logo-fauna.png", 
+"url":"https://cloudvideo.servers10.com:8081/8030/tracks-v1a1/mono.m3u8"},
+
+{"name":"COSTA RICA CHANNEL", "image":"https://w7.pngwing.com/pngs/252/208/png-transparent-costa-rica-argumentative-airplane-nature-flora-costa-rica-text-logo-fauna.png", 
+"url":"https://video0.rogohosting.com:19360/8006/8006.m3u8"},
+
+{"name":"OPA TV", "image":"https://w7.pngwing.com/pngs/252/208/png-transparent-costa-rica-argumentative-airplane-nature-flora-costa-rica-text-logo-fauna.png", 
+"url":"https://opa.usastreams.com:3066/live/canalopalive.m3u8"},
+
+{"name":"MEGA TV V", "image":"https://w7.pngwing.com/pngs/252/208/png-transparent-costa-rica-argumentative-airplane-nature-flora-costa-rica-text-logo-fauna.png", 
+"url":"https://vdo1.streamgato.us:3711/live/megatvlive.m3u8"},
+
+{"name":"CANAL 10", "image":"https://w7.pngwing.com/pngs/252/208/png-transparent-costa-rica-argumentative-airplane-nature-flora-costa-rica-text-logo-fauna.png", 
+"url":"https://acceso.radiosportstv.online:3285/hybrid/play.m3u8"},
+
+{"name":"CANAL 10.1", "image":"https://w7.pngwing.com/pngs/252/208/png-transparent-costa-rica-argumentative-airplane-nature-flora-costa-rica-text-logo-fauna.png", 
+"url":"https://acceso.radiosportstv.online:3384/stream/play.m3u8"},
+
+{"name":"TELESISTEMA", "image":"https://w7.pngwing.com/pngs/252/208/png-transparent-costa-rica-argumentative-airplane-nature-flora-costa-rica-text-logo-fauna.png", 
+"url":"https://k20.usastreams.com:8081/telesistema/tracks-v1a1/mono.m3u8"},
+
+{"name":"TV NORTE", "image":"https://w7.pngwing.com/pngs/252/208/png-transparent-costa-rica-argumentative-airplane-nature-flora-costa-rica-text-logo-fauna.png", 
+"url":"https://videohd.live:19360/8076/8076.m3u8"},
+
+{"name":"GARAVITO TV", "image":"https://w7.pngwing.com/pngs/252/208/png-transparent-costa-rica-argumentative-airplane-nature-flora-costa-rica-text-logo-fauna.png", 
+"url":"https://59ef525c24caa.streamlock.net:443/garabitoTV/garabitotv/chunklist_w1463613344.m3u8"},
+
+{"name":"CDM", "image":"https://w7.pngwing.com/pngs/252/208/png-transparent-costa-rica-argumentative-airplane-nature-flora-costa-rica-text-logo-fauna.png", 
+"url":"https://59825a54e4454.streamlock.net:8443/marcos536/marcos536/chunklist_w1648534825.m3u8"},
+
+{"name":"XTREMA TV", "image":"https://w7.pngwing.com/pngs/252/208/png-transparent-costa-rica-argumentative-airplane-nature-flora-costa-rica-text-logo-fauna.png", 
+"url":"https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w187480783.m3u8"},
+
+{"name":"COLOSAL", "image":"https://w7.pngwing.com/pngs/252/208/png-transparent-costa-rica-argumentative-airplane-nature-flora-costa-rica-text-logo-fauna.png", 
+"url":"https://5eac7b031d945.streamlock.net/COLOSAL/COLOSAL/chunklist_w1214182894.m3u8"},
+
+{"name":"VOICE OVER", "image":"https://w7.pngwing.com/pngs/252/208/png-transparent-costa-rica-argumentative-airplane-nature-flora-costa-rica-text-logo-fauna.png", 
+"url":"https://cloudvideo.servers10.com:8081/8198/index.m3u8"},
+
+{"name":"KMK TV", "image":"https://w7.pngwing.com/pngs/252/208/png-transparent-costa-rica-argumentative-airplane-nature-flora-costa-rica-text-logo-fauna.png", 
+"url":"https://cloudvideo.servers10.com:8081/8120/tracks-v1a1/mono.m3u8"},
+
+{"name":"88 STEREO", "image":"https://w7.pngwing.com/pngs/252/208/png-transparent-costa-rica-argumentative-airplane-nature-flora-costa-rica-text-logo-fauna.png", 
+"url":"http://k3.usastreams.com:80/CableLatino/88stereo/chunklist_w553675203.m3u8?PlaylistM3UCL"},
+
+{"name":"TICAVISION","image":"https://w7.pngwing.com/pngs/252/208/png-transparent-costa-rica-argumentative-airplane-nature-flora-costa-rica-text-logo-fauna.png",
+"url":"https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8"}]}]}]}
