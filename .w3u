@@ -3,6 +3,9 @@
 "author": "Costa rica - Nrey",
 "stations": [
 
+{"name":"CANAL 2 REPRETEL", "image":"https://w7.pngwing.com/pngs/252/208/png-transparent-costa-rica-argumentative-airplane-nature-flora-costa-rica-text-logo-fauna.png", 
+"url":"https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8"},
+
 {"name":"TRIVISIÓN", "image":"https://w7.pngwing.com/pngs/252/208/png-transparent-costa-rica-argumentative-airplane-nature-flora-costa-rica-text-logo-fauna.png", 
 "url":"https://liveingesta118.cdnmedia.tv:443/trivision36live/dvrlive-1500/chunklist.m3u8?DVR"},
 
