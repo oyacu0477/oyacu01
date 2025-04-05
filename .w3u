@@ -61,7 +61,7 @@
 "url":"http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8"},
 
 {"name":"CARIBE TV", "image":"https://w7.pngwing.com/pngs/252/208/png-transparent-costa-rica-argumentative-airplane-nature-flora-costa-rica-text-logo-fauna.png", 
-"url":"https://ssh101-fl.bozztv.com/ssh101/sinart/tracks-v1a1/mono.m3u8"},
+"url":"https://ssh101stream.ssh101.com/akamaissh101/ssh101/caribetv/playlist.m3u8"},
 
 {"name":"ZURQUI TV", "image":"https://w7.pngwing.com/pngs/252/208/png-transparent-costa-rica-argumentative-airplane-nature-flora-costa-rica-text-logo-fauna.png", 
 "url":"https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8"},
@@ -79,7 +79,7 @@
 "url":"https://liveingesta118.cdnmedia.tv:443/trivision36live/dvrlive-1500/chunklist.m3u8?DVR"},
 
 {"name":"STV", "image":"https://w7.pngwing.com/pngs/252/208/png-transparent-costa-rica-argumentative-airplane-nature-flora-costa-rica-text-logo-fauna.png", 
-"url":"https://video.misistemareseller.com:1936/sanvito/sanvito/playlist.m3u8"},
+"url":"https://acceso.radiosportstv.online:3150/live/sanvitotvlive.m3u8"},
 
 {"name":"COTO BRUS", "image":"https://w7.pngwing.com/pngs/252/208/png-transparent-costa-rica-argumentative-airplane-nature-flora-costa-rica-text-logo-fauna.png", 
 "url":"https://cloudvideo.servers10.com:8081/8030/tracks-v1a1/mono.m3u8"},
@@ -88,7 +88,7 @@
 "url":"https://video0.rogohosting.com:19360/8006/8006.m3u8"},
 
 {"name":"OPA TV", "image":"https://w7.pngwing.com/pngs/252/208/png-transparent-costa-rica-argumentative-airplane-nature-flora-costa-rica-text-logo-fauna.png", 
-"url":"https://opa.usastreams.com:3066/live/canalopalive.m3u8"},
+"url":"https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/chunklist_w1359843927.m3u8"},
 
 {"name":"MEGA TV V", "image":"https://w7.pngwing.com/pngs/252/208/png-transparent-costa-rica-argumentative-airplane-nature-flora-costa-rica-text-logo-fauna.png", 
 "url":"https://vdo1.streamgato.us:3711/live/megatvlive.m3u8"},
