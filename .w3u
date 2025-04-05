@@ -34,7 +34,7 @@
 "url":"http://tvn.obix.tv:1935/TVN/CH14.stream_720p/chunklist_w1881922243.m3u8"},
 
 {"name":"EXTRA TV 42", "image":"https://w7.pngwing.com/pngs/252/208/png-transparent-costa-rica-argumentative-airplane-nature-flora-costa-rica-text-logo-fauna.png", 
-"url":"http://45.5.117.182:8000/play/a0e0/index.m3u8"},
+"url":"https://d2axu5ozwr5gk0.cloudfront.net/index.m3u8?CMCD=cid%3D%22https%3A%2F%2Fd2axu5ozwr5gk0.cloudfront.net%2Findex.m3u8%22%2Csid%3D%2291ed89ed-a1ad-4fce-8294-92a11eec5694%22"},
 
 {"name":"TELERED", "image":"https://w7.pngwing.com/pngs/252/208/png-transparent-costa-rica-argumentative-airplane-nature-flora-costa-rica-text-logo-fauna.png", 
 "url":"https://k20.usastreams.com:8081/telered/index.m3u8"},
